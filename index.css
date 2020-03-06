@@ -34,8 +34,11 @@ nav {
 .vanilla {
   background-color: #0d2f81;
 }
+.vanilla-text {
+  color: pink;
+}
 .white {
-  background-color: blue;
+  background-color: red;
 }
 
 .first {
